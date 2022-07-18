@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Giang(Jan)
 #### A Java enthusiast looking for my next quest in my programming journey
-I recently discovered programming which has led me to I made the decision to transition from health care to tech. 
+I recently discovered programming which has led me to I made the decision to transition from health care to tech(best decision ever!!!) 
 
 
 Skills: Java / AWS / Springboot / PostgreSQL / HTML / CSS
