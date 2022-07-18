@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Giang(Jan)
-#### A Java enthusiast who  is looking for a growth opportunity
+#### A Java enthusiast looking for my next quest in my programming journey
 I recently discovered programming which has led me to I made the decision to transition from health care to tech. 
 
 
